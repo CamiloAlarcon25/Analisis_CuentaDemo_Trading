@@ -27,4 +27,4 @@ El dashboard proporciona las siguientes conclusiones sobre la cuenta demo:
 ### •	Filtros de Análisis: Los filtros por Mes, Tipo de Operación (buy o sell) y Símbolo (EURUSD o GBPUSD) permiten una segmentación detallada del rendimiento.
 
 Enlace de Dashboard en Formato PDF:
-[https://github.com/CamiloAlarcon25/An-lisis-de-Rendimiento-de-cuenta-demo-de-trading/blob/main/pbix_TradingDemo.pdf](https://github.com/CamiloAlarcon25/Analisis_CuentaDemo_Trading/blob/main/pbix_TradingDemo.pdf)
+https://github.com/CamiloAlarcon25/Analisis_CuentaDemo_Trading/blob/main/pbix_TradingDemo.pdf

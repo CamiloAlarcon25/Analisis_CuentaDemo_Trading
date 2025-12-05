@@ -24,4 +24,7 @@ El dashboard proporciona las siguientes conclusiones sobre la cuenta demo:
 #### o	Ratio Beneficio/Pérdida (Ratio B/P): El ratio es de 1,527.
 #### o	Tasa de Acierto (Win Rate): La estrategia registra una Tasa de Acierto del 43,92% (65 entradas positivas) 8888, lo que significa que el 56,08% de las operaciones fueron negativas (83 entradas negativas)9. La rentabilidad se mantiene gracias al alto Ratio B/P.
 ### •	Curva de Capital: La curva muestra una alta volatilidad 10, con un drawdown significativo en octubre 11, seguido por una fuerte recuperación en noviembre12, indicando que la estrategia es rentable pero no totalmente consistente mes a mes.
-### •	Filtros de Análisis: Los filtros por Mes 13, Tipo de Operación (buy o sell) 14141414y Símbolo (EURUSD o GBPUSD) 15151515 permiten una segmentación detallada del rendimiento.
+### •	Filtros de Análisis: Los filtros por Mes, Tipo de Operación (buy o sell) y Símbolo (EURUSD o GBPUSD) permiten una segmentación detallada del rendimiento.
+
+Enlace de Dashboard en Formato PDF:
+https://github.com/CamiloAlarcon25/An-lisis-de-Rendimiento-de-cuenta-demo-de-trading/blob/main/pbix_TradingDemo.pdf

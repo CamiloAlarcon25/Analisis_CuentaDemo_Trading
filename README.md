@@ -1,0 +1,1 @@
+# An-lisis-de-Rendimiento-de-cuenta-demo-de-trading
